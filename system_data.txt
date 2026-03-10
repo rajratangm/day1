@@ -1,0 +1,11 @@
+CPU Usage: 10.3
+Memory Usage: 95.1
+Disk Usage: 45.3
+Network Usage: snetio(bytes_sent=869356544, bytes_recv=2400418816, packets_sent=3181235, packets_recv=3963170, errin=0, errout=0, dropin=0, dropout=0)
+Network Usage Sent: 869356544
+Network Usage Received: 2400418816
+Network Usage Total: 3269775360
+Network Usage Percentage: 326.977536
+Network Usage Percentage Sent: 86.93565439999999
+Network Usage Percentage Received: 240.0418816
+Network Usage Percentage Total: 326.977536
