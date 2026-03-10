@@ -178,4 +178,5 @@ For deeper discussion of Isolation Forest, feature scaling, and the complete pip
 
 - **Email:** rajratangulab.more@gmail.com  
 - **GitHub:** [@rajratanm](https://github.com/rajratanm)
+- **Linkedin:** [Profile](www.linkedin.com/in/rajratan-more-23a6602b0)
 
